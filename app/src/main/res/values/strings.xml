@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="main_txt_km_h">km/h</string>
+</resources>

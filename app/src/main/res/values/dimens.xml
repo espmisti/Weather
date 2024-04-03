@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="TextView.14">14sp</dimen>
+    <dimen name="TextView.16">16sp</dimen>
+    <dimen name="TextView.18">18sp</dimen>
+    <dimen name="TextView.20">20sp</dimen>
+</resources>
